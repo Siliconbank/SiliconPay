@@ -2,35 +2,32 @@
 
 Silicon neobank
 
-### Markdown
+### “Electronic Money Institution" Licensed
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Silicon Bank's new generation of digital banking products
+Silicon Business Enterprise Wallet (B2B, B2C) + OEM / Agent
 
-```markdown
-Syntax highlighted code block
+```Silicon neobank
+OTA / Marketplace technology financial service platform
 
-# Header 1
-## Header 2
-### Header 3
+Provide customized E-wallet + card for OTA platform / Marketplace
+Provide E-payment + membership management + mobile marketing solutions for enterprises
+Supplement the lack of digital banking and financing value-added services for PSP companies
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 Better Finance ,Better life.
 
-### Jekyll Themes
+### More effective
+### More convenient
+### More Compliant 
+### More flexible
 
 Silicon Pay
-(https://github.com/Siliconbank/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://www.siliconsilk.com
 
-### Support or Contact
 
+
+
+
+### Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
