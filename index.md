@@ -2,10 +2,8 @@
 
 欢迎来到永久虚拟墓官网
 
- ![index](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe_index.png)
- ![recipe1](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe.png)
- ![recipe2](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe_1.png)
-![text](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
+
+ ![image](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
 
 ### 项目概述
 
@@ -30,7 +28,7 @@
 ### More 
 
 
-![text](https://github.com/Siliconbank/tomb/blob/master/%E5%85%A8%E7%90%83%E5%88%86%E5%B8%83.png)
+ ![text](https://github.com/Siliconbank/tomb/blob/master/%E5%85%A8%E7%90%83%E5%88%86%E5%B8%83.png)
 
 
 ### Contact
