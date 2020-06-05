@@ -1,7 +1,11 @@
 ## Welcome to Tomb.Ga
 
 欢迎来到永久虚拟墓官网
-
+int a[3];
+       for(int i=0;i<3;i++)
+       cin..a[i];
+       for9int i=0;i,3;i++
+       cout,,a[i]
 ![image](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
 
 ### 项目概述
