@@ -1,38 +1,34 @@
-## Welcome to Silicon Silk
+## Welcome to Tomb.Ga
 
-Silicon neobank
+欢迎来到永久虚拟墓官网
 
 ![image](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
 
-### “Electronic Money Institution" Licensed
+### 项目概述
 
-Silicon Bank's new generation of digital banking products
-Silicon Business Enterprise Wallet (B2B, B2C) + OEM / Agent
+全球区块链互联网永久性加密数字墓项目，让每个人都可以拥有独立永久的私人虚拟墓 及去中心化顶级墓域名  (.tomb)
+三界唯心，万法唯识
+利用区块链技术为基础，透过智能合约，分布式记账技术(distributed ledger technology)和加密货币的实际应用以通俗易懂的手法呈现, 打通实体与虚拟的通道，打破人间与天堂的界限，实现永远不可消失的“坟墓”。
+在Cryptomb.net加密墓平台上可以选择：“域/地/墓/人“四合一
+抢注独一无二的私人陵墓门户顶级域名仅1 TBC（0.25美元/年），先抢先得（域名同时可作为加密钱包 储存/基金托管加密货币遗产）。
+竞拍选址“宝地”，系统自动分批拍卖出4000个高级属性稀有风水宝地区，也可自行在全球地图上选择购置可用于建墓的“宝地”。
+建墓选择心仪的陵墓模版或自创，入驻设计师提供各国不同习俗风格迥异的陵墓模版（免费版/付费版），也可联系设计师度身订制。
+上传将本人或逝者的信息/文字/图像/声像资料永久储存到网络中。
+祭奠数字冥币/祭品道具，用作在线扫墓。一旦烧毁，永久上链。
 
-Silicon neobank
-OTA / Marketplace technology financial service platform
 
-Provide customized E-wallet + card for OTA platform / Marketplace
-Provide E-payment + membership management + mobile marketing solutions for enterprises
-Supplement the lack of digital banking and financing value-added services for PSP companies
+### 安全唯一，不可磨灭
+### 故人思念，一键上链
+### 加密遗产，永久传承 
+### More 
 
-
-Better Finance ,Better life.
-
-### More effective
-### More convenient
-### More Compliant 
-### More flexible
-
-Silicon Pay
-https://www.siliconsilk.com
 
 
 
 
 
 ### Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
 
 <!DOCTYPE html>
