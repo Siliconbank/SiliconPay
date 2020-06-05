@@ -2,7 +2,7 @@
 
 欢迎来到永久虚拟墓官网
 
-![image](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
+![text](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
 
 ### 项目概述
 
