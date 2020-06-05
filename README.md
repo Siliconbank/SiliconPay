@@ -1,7 +1,7 @@
 # TOMB 加密墓
 ## Welcome to Tomb.Ga
 
-欢迎来到永久虚拟墓官网
+欢迎来到永恒之墓 官网
 
 
  ![image](https://github.com/Siliconbank/tomb/blob/master/image/tomb3.png)
