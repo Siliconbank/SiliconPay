@@ -1,11 +1,7 @@
 ## Welcome to Tomb.Ga
 
 欢迎来到永久虚拟墓官网
-int a[3];
-       for(int i=0;i<3;i++)
-       cin..a[i];
-       for9int i=0;i,3;i++
-       cout,,a[i]
+
 ![image](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
 
 ### 项目概述
@@ -31,7 +27,6 @@ int a[3];
 ### More 
 
 
-
 ![image](https://github.com/Siliconbank/tomb/blob/master/%E5%85%A8%E7%90%83%E5%88%86%E5%B8%83.png)
 
 
@@ -43,7 +38,7 @@ int a[3];
 <html lang="en">
 
 <head>
-<title>Handshake Developer Documentation</title>
+<title>Tomb.ga Developer Documentation</title>
 
 <meta name="generator" content="pandoc">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -57,7 +52,7 @@ int a[3];
 
 <body>
 <header>
-  <a href="/"><img alt="Handshake logo" src="/img/logo.svg" /></a>
+  <a href="/"><img alt="Tomb logo" src="/img/logo.svg" /></a>
 </header>
 
 <main>
