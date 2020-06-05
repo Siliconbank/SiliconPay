@@ -1,9 +1,9 @@
-## Welcome to Tomb.Ga
+## Welcome to Tomb.Ga 永恒之墓
 
-欢迎来到永久虚拟墓官网
+欢迎来到永恒之墓 官网
 
 
- ![image](https://github.com/Siliconbank/tomb/blob/master/image/tomb2.png)
+ ![image](https://github.com/Siliconbank/tomb/blob/master/image/tomb3.png)
 
 ### 项目概述
 
