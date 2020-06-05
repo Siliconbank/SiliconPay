@@ -2,7 +2,7 @@
 
 Silicon neobank
 
-![image](https://github.com/Siliconbank/tomb/blob/master/photo.md)
+![image](https://github.com/Siliconbank/tomb/blob/master/tomb2.jpg)
 
 ### “Electronic Money Institution" Licensed
 
