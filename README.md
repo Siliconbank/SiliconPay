@@ -4,7 +4,7 @@
 欢迎来到永久虚拟墓官网
 
 
- ![image](https://github.com/Siliconbank/tomb/blob/master/tomb2.png)
+ ![image](https://github.com/Siliconbank/tomb/blob/master/image/tomb2.png)
 
 ### 项目概述
 
@@ -29,7 +29,7 @@
 ### More 
 
 
- ![image](https://github.com/Siliconbank/tomb/blob/master/WORLD1.png)
+ ![image](https://github.com/Siliconbank/tomb/blob/master/image/WORLD1.png)
 
 
 ### Contact
