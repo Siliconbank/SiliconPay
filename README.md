@@ -36,9 +36,9 @@
 
 
 
-<!https://github.com/Siliconbank/tomb/blob/master/image/sslogo1.png>
+<!Tomb>
 <html lang="en">
-
+![image](https://github.com/Siliconbank/tomb/blob/master/image/sslogo1.png)
 <head>
 <title>Tomb.ga Developer Documentation</title>
 
