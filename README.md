@@ -1,4 +1,4 @@
-# tomb
+# TOMB 加密墓
 ## Welcome to Tomb.Ga
 
 欢迎来到永久虚拟墓官网
