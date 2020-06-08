@@ -27,11 +27,7 @@
 ### 故人思念，一键上链
 ### 加密遗产，永久传承 
 ### More 
-<div ><iframe width="100%" height="480" src="https://www.ll3d.com/model/8a99686f5ee26248015f090240a40455" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
-<p>
- on <a href="https://www.ll3d.com/model/8a99686f5ee26248015f090240a40455/detail" style="color:#1caad9; font-weight:bold; font-size:14px;" >乐乐三维云</a>
-</p>
-</div>
+
 			
 
  ![image](https://github.com/Siliconbank/tomb/blob/master/image/WORLD1.png)
